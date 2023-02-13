@@ -1,2 +1,2 @@
 # GandJ.github.io
-gpscclasse.com
+[gpscclasse.com](https://gpscclasse.com/)
